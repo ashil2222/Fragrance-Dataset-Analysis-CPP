@@ -1,3 +1,4 @@
+![Fragrance Wizard Banner](Fragrance_Wizard_GitHub_1280x640_under1MB.jpg)
 # Fragrance Wizard — Fragrance Dataset Analysis System
 
 A console-based C++ application developed to process, search, and analyze fragrance data using CSV file handling and the C++ Standard Template Library (STL).
